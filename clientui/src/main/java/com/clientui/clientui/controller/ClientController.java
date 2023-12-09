@@ -1,4 +1,4 @@
-package com.clientui.controller;
+package com.clientui.clientui.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
